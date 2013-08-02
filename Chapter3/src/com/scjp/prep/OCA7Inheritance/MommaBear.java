@@ -1,11 +1,11 @@
-package com.scjp.prep.chapter10oca;
+package com.scjp.prep.OCA7Inheritance;
 
 /**
  * Created with IntelliJ IDEA.
  * User: zempelc
- * Date: 7/22/13
- * Time: 10:29 PM
+ * Date: 7/31/13
+ * Time: 1:03 PM
  * To change this template use File | Settings | File Templates.
  */
-public class ExceptionsTests {
+public class MommaBear {
 }
