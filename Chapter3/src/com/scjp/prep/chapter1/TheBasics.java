@@ -63,5 +63,14 @@ public class TheBasics {
         }
     }
 
-
+    /*
+        Remember Overload you can change both the parameter types and the return type
+        The parameter types must always be different!
+     */
+    public class OverloadedClass {
+        public void overloadedMethod(String something) {}
+        public String overloadedMethod(String something, String somethingElse) { return ""; }
+        public void overloadedMethod() {}
+//        public String overloadedMethod() {return "";}    /*  This one won't work */
+    }
 }
